@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/appicon.png</file>
+        <file>images/deploy.png</file>
+        <file>images/ic_dvr_black_36dp.png</file>
+        <file>images/ic_grain_black_36dp.png</file>
+        <file>images/ic_security_black_36dp.png</file>
+        <file>images/ic_warning_black_36dp.png</file>
+        <file>images/ic_youtube_searched_for_black_36dp.png</file>
+        <file>images/logo.png</file>
+        <file>images/temperature_bar.png</file>
+        <file>i18n/TSMS_QT4_zh_CN.qm</file>
+    </qresource>
+</RCC>
